@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/Design-Patteren-C_Sharp_Course/bin/Debug/net8.0/Design-Patteren-C_Sharp_Course.dll
+/Design-Patteren-C_Sharp_Course/bin/Debug/net8.0/Design-Patteren-C_Sharp_Course.exe
+/Design-Patteren-C_Sharp_Course/bin/Debug/net8.0/Design-Patteren-C_Sharp_Course.pdb
+*.dll
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/apphost.exe
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.AssemblyInfo.cs
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.AssemblyInfoInputs.cache
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.csproj.CoreCompileInputs.cache
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.csproj.FileListAbsolute.txt
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.genruntimeconfig.cache
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.pdb
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/Design-Patteren-C_Sharp_Course.sourcelink.json
+/Design-Patteren-C_Sharp_Course/obj/Debug/net8.0/ref/Design-Patteren-C_Sharp_Course.dll
