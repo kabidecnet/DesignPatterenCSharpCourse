@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Design-Patteren-C_Sharp_Course")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ae4849b2c8780ca49f8ca39a9cc91e97feb8f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("Design-Patteren-C_Sharp_Course")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Design-Patteren-C_Sharp_Course")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

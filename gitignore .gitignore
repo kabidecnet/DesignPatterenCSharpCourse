@@ -1,0 +1,11 @@
+
+.gitignore
+````````
+.vs/
+````````
+
+This line tells Git to stop ignoring the .vs/ directory, so it will be tracked again.
+
+# Response
+````````
+.vs/

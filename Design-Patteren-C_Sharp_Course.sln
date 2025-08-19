@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design-Patteren-C_Sharp_Course", "Design-Patteren-C_Sharp_Course\Design-Patteren-C_Sharp_Course.csproj", "{87F09605-AE1C-495F-9CA5-0B787069B96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F09605-AE1C-495F-9CA5-0B787069B96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F09605-AE1C-495F-9CA5-0B787069B96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F09605-AE1C-495F-9CA5-0B787069B96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F09605-AE1C-495F-9CA5-0B787069B96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39321FC-48BB-4051-8838-0C4D57662234}
+	EndGlobalSection
+EndGlobal
