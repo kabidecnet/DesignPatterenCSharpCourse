@@ -72,3 +72,6 @@ ehthumbs.db
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+/Design-Patteren-C_Sharp_Course/.vs/Design-Patteren-C_Sharp_Course/DesignTimeBuild/.dtbcache.v2
+*.vsidx
